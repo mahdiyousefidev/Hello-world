@@ -1,4 +1,1 @@
-test TortoiseGit
-sdds
-asdf
-kmn,m
+it's a clone repository test using TortoiseGit
